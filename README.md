@@ -1,14 +1,14 @@
-# Merge Sort (Vanilla JavaScript) + Fibonacci Demos
+# Merge Sort + Fibonacci Demos
 
 A small algorithms playground featuring a production-grade **merge sort** implementation alongside iterative and recursive **Fibonacci** demos. The browser page loads the script and prints results to the console for quick inspection.
 
 ## ✨ What’s inside
 
-- **Merge Sort**: classic divide-and-conquer sort with a two-pointer `merge(left, right)` helper and a recursive `mergeSort(arr)` that splits, sorts, and merges. :contentReference[oaicite:0]{index=0}  
+- **Merge Sort**: classic divide-and-conquer sort with a two-pointer `merge(left, right)` helper and a recursive `mergeSort(arr)` that splits, sorts, and merges.  
 - **Fibonacci**:
-  - `fibs(n)` — iterative generator returning an array of the first `n` numbers. :contentReference[oaicite:1]{index=1}
-  - `fibsRec(n)` — recursive variant that builds the array progressively. :contentReference[oaicite:2]{index=2}
-- **Browser harness**: `index.html` includes the script and tells you to “Check the console,” so you can see the outputs immediately. :contentReference[oaicite:3]{index=3}
+  - `fibs(n)` — iterative generator returning an array of the first `n` numbers. 
+  - `fibsRec(n)` — recursive variant that builds the array progressively. 
+- **Browser harness**: `index.html` includes the script and tells you to “Check the console,” so you can see the outputs immediately. 
 
 ## 📦 Project structure
 
